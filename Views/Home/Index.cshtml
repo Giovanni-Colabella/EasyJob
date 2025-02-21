@@ -1,0 +1,76 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1 class="text-center text-2xl font-extrabold">Scorri le migliori offerte lavorative!</h1>
+<div class="container mx-auto px-6 py-8">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <!-- Widget Catalogo Lavori -->
+        <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+            <h2 class="text-xl font-semibold text-gray-800 mb-3">Catalogo Lavori</h2>
+            <p class="text-gray-700 mb-4">Visualizza una lista di lavori disponibili in vari settori e per diverse
+                qualifiche. Sfoglia le offerte per trovare quella che fa per te.</p>
+            <button class="w-full py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition duration-300">
+                <a asp-controller="Jobs" asp-action="Index">Visualizza lavori</a>
+            </button>
+        </div>
+
+        <!-- Widget Aggiungi Offerte Lavorative -->
+        <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+            <h2 class="text-xl font-semibold text-gray-800 mb-3">Aggiungi Offerta Lavorativa</h2>
+            <p class="text-gray-700 mb-4">Aggiungi nuove offerte lavorative alla piattaforma per permettere ai candidati
+                di
+                candidarsi direttamente alle tue posizioni.</p>
+            <button
+                class="w-full py-2 bg-green-600 text-white rounded-md hover:bg-green-700 transition duration-300">Aggiungi
+                Offerta</button>
+        </div>
+
+    </div>
+
+    <!-- Offerte lavorative aggiunte recentemente -->
+    <br>
+    <br>
+    <div class="bg-gray-100 p-4 rounded-lg shadow-sm">
+        <h2 class="text-xl font-semibold text-gray-800 mb-3 text-center">Aggiunte di recente:</h2>
+
+        <!-- Prima offerta -->
+        <div class="bg-white p-4 rounded-lg shadow-md mb-4">
+            <h3 class="text-lg font-semibold text-gray-800">Sviluppatore Frontend</h3>
+            <p class="text-gray-600 mb-2">Azienda XYZ sta cercando un sviluppatore frontend con esperienza in React.js.
+            </p>
+            <span class="text-sm text-gray-500">Pubblicato il: 20 febbraio 2025</span>
+            <div class="mt-4">
+                <a href="#" class="text-blue-600 hover:text-blue-800">Visualizza dettagli</a>
+            </div>
+        </div>
+
+        <!-- Seconda offerta -->
+        <div class="bg-white p-4 rounded-lg shadow-md mb-4">
+            <h3 class="text-lg font-semibold text-gray-800">Ingegnere del Software</h3>
+            <p class="text-gray-600 mb-2">Cerchiamo un ingegnere del software con esperienza in C# e .NET Core per un
+                progetto a lungo termine.</p>
+            <span class="text-sm text-gray-500">Pubblicato il: 18 febbraio 2025</span>
+            <div class="mt-4">
+                <a href="#" class="text-blue-600 hover:text-blue-800">Visualizza dettagli</a>
+            </div>
+        </div>
+
+        <!-- Terza offerta -->
+        <div class="bg-white p-4 rounded-lg shadow-md mb-4">
+            <h3 class="text-lg font-semibold text-gray-800">Marketing Specialist</h3>
+            <p class="text-gray-600 mb-2">Un'agenzia di marketing sta cercando un marketing specialist per gestire le
+                campagne pubblicitarie online.</p>
+            <span class="text-sm text-gray-500">Pubblicato il: 17 febbraio 2025</span>
+            <div class="mt-4">
+                <a href="#" class="text-blue-600 hover:text-blue-800">Visualizza dettagli</a>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<!-- Top 5 offerte lavorative migliori -->

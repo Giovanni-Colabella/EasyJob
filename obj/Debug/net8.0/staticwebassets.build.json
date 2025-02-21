@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "iLIilFTvOO/lfLOthMwAAMEQOLBrl9Y9C4rhNHCAW+4=",
+  "Source": "MyCourse_Custom",
+  "BasePath": "_content/MyCourse_Custom",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyCourse_Custom\\wwwroot",
+      "Source": "MyCourse_Custom",
+      "ContentRoot": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\",
+      "BasePath": "_content/MyCourse_Custom",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\css\\site.css",
+      "SourceId": "MyCourse_Custom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\",
+      "BasePath": "_content/MyCourse_Custom",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7and8guzmx",
+      "Integrity": "4WAeFD2IVKfD6B9797hosHbXsM10d7fixO9RHWF8b6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\css\\styles.css",
+      "SourceId": "MyCourse_Custom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\",
+      "BasePath": "_content/MyCourse_Custom",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tiu0pujge4",
+      "Integrity": "e0SvT5/Dikbt28Opry2LZDTB9tYexSv4lU2Fg47Y7Hg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.7and8guzmx.css",
+      "AssetFile": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4WAeFD2IVKfD6B9797hosHbXsM10d7fixO9RHWF8b6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 13:04:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7and8guzmx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4WAeFD2IVKfD6B9797hosHbXsM10d7fixO9RHWF8b6I="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4WAeFD2IVKfD6B9797hosHbXsM10d7fixO9RHWF8b6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 13:04:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4WAeFD2IVKfD6B9797hosHbXsM10d7fixO9RHWF8b6I="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0SvT5/Dikbt28Opry2LZDTB9tYexSv4lU2Fg47Y7Hg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:13:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0SvT5/Dikbt28Opry2LZDTB9tYexSv4lU2Fg47Y7Hg="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.tiu0pujge4.css",
+      "AssetFile": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0SvT5/Dikbt28Opry2LZDTB9tYexSv4lU2Fg47Y7Hg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 20:13:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tiu0pujge4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0SvT5/Dikbt28Opry2LZDTB9tYexSv4lU2Fg47Y7Hg="
+        }
+      ]
+    }
+  ]
+}
