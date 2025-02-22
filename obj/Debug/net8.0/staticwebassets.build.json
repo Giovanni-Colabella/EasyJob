@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iLIilFTvOO/lfLOthMwAAMEQOLBrl9Y9C4rhNHCAW+4=",
+  "Hash": "yviRkB5jaLf9TeuDmoJeUK/YKxiU12kOZgeHKE+LYBk=",
   "Source": "MyCourse_Custom",
   "BasePath": "_content/MyCourse_Custom",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\images\\logo.png",
+      "SourceId": "MyCourse_Custom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\",
+      "BasePath": "_content/MyCourse_Custom",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l347b5slvo",
+      "Integrity": "gS8U3cxTCdguzLhdGv98WKiP7oQTS8F9S+XxMrZJRI0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     }
   ],
   "Endpoints": [
@@ -221,6 +242,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-e0SvT5/Dikbt28Opry2LZDTB9tYexSv4lU2Fg47Y7Hg="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.l347b5slvo.png",
+      "AssetFile": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gS8U3cxTCdguzLhdGv98WKiP7oQTS8F9S+XxMrZJRI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 21:07:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l347b5slvo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gS8U3cxTCdguzLhdGv98WKiP7oQTS8F9S+XxMrZJRI0="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "C:\\Users\\A570_Apulia\\Desktop\\MyCourse_Custom\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gS8U3cxTCdguzLhdGv98WKiP7oQTS8F9S+XxMrZJRI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 21:07:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gS8U3cxTCdguzLhdGv98WKiP7oQTS8F9S+XxMrZJRI0="
         }
       ]
     }

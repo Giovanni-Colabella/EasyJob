@@ -169,3 +169,4 @@ C:\Users\A570_Apulia\Desktop\MyCourse_Custom\obj\Debug\net8.0\refint\MyCourse_Cu
 C:\Users\A570_Apulia\Desktop\MyCourse_Custom\obj\Debug\net8.0\MyCourse_Custom.pdb
 C:\Users\A570_Apulia\Desktop\MyCourse_Custom\obj\Debug\net8.0\MyCourse_Custom.genruntimeconfig.cache
 C:\Users\A570_Apulia\Desktop\MyCourse_Custom\obj\Debug\net8.0\ref\MyCourse_Custom.dll
+C:\Users\A570_Apulia\Desktop\MyCourse_Custom\obj\Debug\net8.0\MyCourse_Custom.sourcelink.json
