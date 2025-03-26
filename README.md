@@ -1,4 +1,5 @@
 # EasyJob - Piattaforma di gestione lavorativa
+( Non ancora completa )
 
 EasyJob è una piattaforma intuitiva per la gestione delle opportunità lavorative, sviluppata con ASP.NET per il backend e senza framework frontend esterni.
 
